@@ -67,3 +67,7 @@ nav ul li a{
     padding: 80px;
     text-align: center;
 }
+.product-link {
+    text-decoration: none;
+    color: inherit;
+}
